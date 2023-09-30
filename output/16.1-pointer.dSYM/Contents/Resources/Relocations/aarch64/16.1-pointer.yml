@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bt/Documents/code/c/output/16.1-pointer'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD0, symSize: 0x18 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD0, symSize: 0x18 }
+  - { offsetInCU: 0x5A, offset: 0x5A, size: 0x8, addend: 0x0, symName: _one, symObjAddr: 0x18, symBinAddr: 0x100003DE8, symSize: 0xF0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: _two, symObjAddr: 0x108, symBinAddr: 0x100003ED8, symSize: 0x80 }
+...
